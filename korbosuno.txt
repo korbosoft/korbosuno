@@ -1,0 +1,44 @@
+```
+==================
+|Korbo's UNO v4.0|
+==================
+
+== Glossary ==
+
+Draw Card: Any card that can cause someone to draw cards.
+
+Draw Stack: Sequential Draw Cards played in a row.
+
+Modifier Card: A card that affects the next card place, and does not count towards your turn. (You can use a modifier card and an applicable card in the same turn.)
+
+D20: A 20-sided die.
+
+== Main Rules ==
+
+Play like an official game of UNO, with these exceptions:
+- All Draw Cards can be stacked together, creating a Draw Stack.
+- If you have to draw a card due to a Draw Card or Draw Stack, you can use a Reverse Card, making the previous player draw the cards instead, and reversing the player order, or use a Skip Card, making the next player draw the cards instead.
+- You can use multiple Draw +2/+4 Cards in one turn, but not any other Draw Card.
+- You can use multiple Skip Cards in one turn. If you use multiple Skip Cards, The turns will be skipped accordingly. (e. g. 3 Skip Cards = Skip next 3 players' turns.)
+- If your turn will be skipped due to a Skip Card, Placing a Reverse Card will skip the user's next turn instead of yours. Placing another Skip Card will skip the next player's turn (unless they also play a Skip Card).
+
+== New Cards ==
+
+The following cards are added to the mix. Draw the corresponding symbols, which are put in parentheses next to the name, onto a piece of paper for each card twice, then mix them into the cards. All listed cards are Magenta, except for Modifier Cards, which are purple.
+
+1. Match (MA): The user chooses a color. All other players must show a card with the chosen color from their hand. All players who cannot do so must draw 3 cards. If all players have a card with the chosen color, then you must draw 4 cards.
+
+2. Trade (TD): The user chooses a card from the next player's deck, then gives them one of their own.
+
+3. Draw Next (DN): the next player to place a numbered card draws said number.
+
+4. Lottery (LT): The user rolls a D20. The next player draws the amount minus 10 (e.g. 15 = 5 cards). if the resulting amount is negative, the user draws four.
+
+5. Rainbow (RB): The user chooses a color. The next player must keep drawing until they draw a card of that color. Play then resumes as if the person playing the Wild card had just played the discarded card.
+
+6. Improvised Explosive (IE): Everyone draws four.
+
+7. War (WR): Both you and the next player pick a numerical card from their deck. The player with the lower number draws 3. If both numbers are equal, then both players draw 3. the chosen cards are discarded, and therefore not put back in the deck.
+
+8. Override (OR): Modifier Card. When using this card, the next card can be applied to any player (including yourself), instead of the next player.
+```
